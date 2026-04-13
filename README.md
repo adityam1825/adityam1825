@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aditya Mulge is a 3rd-year Computer Science Engineer at Sharnbasva University, Kalaburagi, with a strong foundation in Java Full Stack Development, AI/ML Engineering, and Blockchain systems. He architects scalable backend solutions, deploys production-grade AI models, and consistently delivers end-to-end software products. A composed public speaker, proactive event leader, and dedicated night coder — Aditya brings technical depth, competitive drive, and an uncompromising work ethic to every project he undertakes.
+I am a 3rd-year Computer Science Engineer at Sharnbasva University, Kalaburagi, with a strong foundation in Java Full Stack Development, AI/ML Engineering, and Blockchain systems. He architects scalable backend solutions, deploys production-grade AI models, and consistently delivers end-to-end software products. A composed public speaker, proactive event leader, and dedicated night coder — Aditya brings technical depth, competitive drive, and an uncompromising work ethic to every project he undertakes.
 
 
 ## 🌐 Socials:
